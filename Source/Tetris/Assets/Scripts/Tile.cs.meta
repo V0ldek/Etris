@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2f5ff6bf5d40a744ba34b8d919763a27
+timeCreated: 1440888219
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - detachAnim: {fileID: 11483476, guid: 644f6f19de480bc4c92ea5f25ac49162, type: 2}
+  - mytransform: {instanceID: 0}
+  - ghostPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
